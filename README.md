@@ -1,4 +1,4 @@
-# Hi, I'm Pratyay Roy 👋
+# Hi, I'm Pratyay Roy 
 
 **CS & Business Systems student at VIT Vellore building scalable data pipelines, industrial IoT systems, and production GenAI.**
 
@@ -6,7 +6,7 @@ I engineer end-to-end data pipelines, transfer-learning computer vision models, 
 
 ---
 
-### 💼 What I Bring to the Table
+###  What I Bring to the Table
 
 - **Enterprise GenAI at IBM:** Built microservice-based chatbot workflows on IBM watsonx.ai; implemented Retrieval-Augmented Generation (RAG) pipelines that improved retrieval accuracy by **30%** and boosted intent recognition to **95%**.
 - **Geospatial Data Engineering at GeoFlame:** Developed automated raster and vector ETL pipelines processing multi-temporal satellite GeoTIFFs and California master grids (1km/5km/25km) for wildfire risk intelligence.
@@ -14,7 +14,7 @@ I engineer end-to-end data pipelines, transfer-learning computer vision models, 
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 - **Languages:** Python, Java (Oracle Certified SE 17), TypeScript, SQL, C++
 - **Data Engineering & Geospatial:** GeoPandas, Rasterio, GDAL, Pandas, NumPy, MySQL, PostgreSQL, Prisma ORM
@@ -24,7 +24,7 @@ I engineer end-to-end data pipelines, transfer-learning computer vision models, 
 
 ---
 
-### 📌 Selected Engineering Projects
+###  Selected Engineering Projects
 
 | Repository | Focus Area | Tech Stack & Quantified Metrics |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ I engineer end-to-end data pipelines, transfer-learning computer vision models, 
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/pratyayroy007](https://linkedin.com/in/pratyayroy007/)
 - **Email:** [pratyayroy007@gmail.com](mailto:pratyayroy007@gmail.com)
